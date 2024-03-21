@@ -12,7 +12,7 @@ Welcome to my Github page! I am Fighter001, currently learning red team, binary 
 
 
 #### 🌱 Things I am currently working on: 
-- Get: OSCP, OSWE, OSEP and HTB’s CWE, AWS and other certificates  
+- Get: OSCP, OSWE, OSEP and HTB’s CWEE, AWS and other certificates  
 - Participate in organizational activities or courses related to hackerone vulnerability mining
   and penetration testing, binary reverse engineering analysis, and intelligence analysis. 
 - Go to view the project Thank you (https://github.com/Hacker-Fighter001) 🚀 
