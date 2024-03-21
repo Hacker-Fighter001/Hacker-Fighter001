@@ -3,8 +3,8 @@
 ### This is Hacker-Fighter001
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Hacker-Fighter001)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chenzhixin1314920@gmail.com)
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Hacker-Fighter001)
 
 Welcome to my Github page! I am Fighter001, currently learning red team, binary reverse engineering, and threat intelligence!  
 
